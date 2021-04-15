@@ -1,0 +1,17 @@
+.animated-fill-button {
+    padding: 20px;
+    background: rgb(250, 23, 23);
+    color: #000;
+    border: 1px solid #000;
+    cursor: pointer;
+    transition: 0.3s all ease-in-out;
+  }
+  
+  .animated-fill-button:hover {
+    background: #000;
+    color: #fff;
+  }
+  body{
+   background-color: blue;
+   color: rgb(205, 250, 4);
+  }
